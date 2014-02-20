@@ -1,4 +1,4 @@
-## Angular Leaflet Skeleton ##
+## Angular Skeleton ##
 
 ### Getting Started ###
 *From project root*
